@@ -1,34 +1,50 @@
 [
   {
     "id": "01",
-    "name": "Google IT Support"
+    "name": "Google IT Support",
+    "img": "https://images.unsplash.com/photo-1529612700005-e35377bf1415?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80",
+    "description": "In this course, you'll be introduced to the world of Information Technology, or IT. You'll learn about the different facets of Information Technology, like computer hardware, the Internet, computer software, troubleshooting, and customer service."
   },
   {
     "id": "02",
-    "name": "Python for Everybody"
+    "name": "Python for Everybody",
+    "img": "https://images.unsplash.com/photo-1580121441575-41bcb5c6b47c?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=774&q=80",
+    "description": "This course aims to teach everyone the basics of programming computers using Python. We cover the basics of how one constructs a program from a series of simple instructions in Python. The course has no pre-requisites and avoids all but the simplest mathematics."
   },
   {
     "id": "03",
-    "name": "Microsoft Excel"
+    "name": "Microsoft Excel",
+    "img": "https://images.unsplash.com/photo-1532619187608-e5375cab36aa?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80",
+    "description": "Excel courses teach users how to fully utilise this programme. In them, you will learn how to manage, calculate and format data in clear and visually appealing ways. This includes making basic calculations, displaying data as graphs or charts and creating complex formulas."
   },
   {
     "id": "04",
-    "name": "C# Programming"
+    "name": "C# Programming",
+    "img": "https://images.unsplash.com/photo-1520509414578-d9cbf09933a1?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=404&q=80",
+    "description": "C# is a powerful backend coding language used for Microsoft web and desktop applications. C# is a C-style language, so you can take C# and learn other languages such as Java, C and C++. This course will get you started with C# and the language styles including object-oriented programming (OOP)."
   },
   {
     "id": "05",
-    "name": "Hour of Code"
+    "name": "Hour of Code",
+    "img": "https://images.unsplash.com/photo-1487058792275-0ad4aaf24ca7?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80",
+    "description": "The Hour of Code is a one-hour introduction to computer science, using fun tutorials to show that anybody can learn the basics. This grassroots campaign is supported by over 400 partners and 200,000 educators worldwide. Read our How-to guide to plan an event for your class."
   },
   {
     "id": "06",
-    "name": "Machine Learning"
+    "name": "Machine Learning",
+    "img": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=465&q=80",
+    "description": "Machine Learning is the study of how to build computer systems that learn from experience. It is a subfield of Artificial Intelligence and intersects with statistics, cognitive science, information theory, and probability theory, among others."
   },
   {
     "id": "07",
-    "name": "Computer Science for Web Programming"
+    "name": "Computer Science for Web Programming",
+    "img": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80",
+    "description": "Computer Science for Web Programming. This course provides an introduction of web-programming techniques that use HTML, CSS and JavaScript as web development essentials. The concepts of web development are very important in the modern world as they are linked in all the sectors."
   },
   {
     "id": "08",
-    "name": "IBM Data Science"
+    "name": "IBM Data Science",
+    "img": "https://images.unsplash.com/photo-1460925895917-afdab827c52f?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=815&q=80",
+    "description": "The program consists of 9 online courses that will provide you with the latest job-ready tools and skills, including open source tools and libraries, Python, databases, SQL, data visualization, data analysis, statistical analysis, predictive modeling, and machine learning algorithms."
   }
 ]
