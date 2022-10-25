@@ -5,7 +5,16 @@
     "img": "https://images.unsplash.com/photo-1529612700005-e35377bf1415?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80",
     "description": "In this course, you'll be introduced to the world of Information Technology, or IT. You'll learn about the different facets of Information Technology, like computer hardware, the Internet, computer software, troubleshooting, and customer service.",
     "price": "45",
-    "feature": ["No relevant experience necessary","100% remote, online learning","Under 10 hours of study a week*","Master the skills necessary to succeed in an entry-level role"]
+    "feature": [
+      "History & Cybersecurity Standards",
+      "Cyber Threats",
+      "Network Security Basics",
+      "Cryptography, Authentication, & Authorization"
+    ],
+    "orders": "660",
+    "growth": "190",
+    "students": "12000",
+    "ClickRate": "62"
   },
   {
     "id": "02",
@@ -14,11 +23,16 @@
     "description": "This course aims to teach everyone the basics of programming computers using Python. We cover the basics of how one constructs a program from a series of simple instructions in Python. The course has no pre-requisites and avoids all but the simplest mathematics.",
     "price": "50",
     "feature": [
-      "No relevant experience necessary",
-      "100% remote, online learning",
-      "Under 10 hours of study a week*",
-      "Master the skills necessary to succeed in an entry-level role"
-    ]
+      "Getting Started with Python",
+      "Basic Syntax with Python",
+      "Control Flow in Python",
+      "Functions",
+      "Object-Oriented Programming in Python"
+    ],
+    "orders": "900",
+    "growth": "100",
+    "students": "9000",
+    "ClickRate": "70"
   },
   {
     "id": "03",
@@ -27,11 +41,16 @@
     "description": "Excel courses teach users how to fully utilise this programme. In them, you will learn how to manage, calculate and format data in clear and visually appealing ways. This includes making basic calculations, displaying data as graphs or charts and creating complex formulas.",
     "price": "60",
     "feature": [
-      "No relevant experience necessary",
-      "100% remote, online learning",
-      "Under 10 hours of study a week*",
-      "Master the skills necessary to succeed in an entry-level role"
-    ]
+      "Welcome to Learn Microsoft Excel for Data Analysis",
+      "Exploring Data",
+      "Visualizing Data",
+      "Handling Data",
+      "Analyze Bitcoin Data in Excel"
+    ],
+    "orders": "1400",
+    "growth": "1200",
+    "students": "18000",
+    "ClickRate": "120"
   },
   {
     "id": "04",
@@ -40,11 +59,16 @@
     "description": "C# is a powerful backend coding language used for Microsoft web and desktop applications. C# is a C-style language, so you can take C# and learn other languages such as Java, C and C++. This course will get you started with C# and the language styles including object-oriented programming (OOP).",
     "price": "48",
     "feature": [
-      "No relevant experience necessary",
-      "100% remote, online learning",
-      "Under 10 hours of study a week*",
-      "Master the skills necessary to succeed in an entry-level role"
-    ]
+      "Hello World",
+      "Data Types and Variables",
+      "Learn C#: Logic and Conditionals",
+      "Learn C#: Methods",
+      "Learn C#: Arrays and Loops"
+    ],
+    "orders": "420",
+    "growth": "100",
+    "students": "5000",
+    "ClickRate": "50"
   },
   {
     "id": "05",
@@ -53,11 +77,16 @@
     "description": "The Hour of Code is a one-hour introduction to computer science, using fun tutorials to show that anybody can learn the basics. This grassroots campaign is supported by over 400 partners and 200,000 educators worldwide. Read our How-to guide to plan an event for your class.",
     "price": "52",
     "feature": [
-      "No relevant experience necessary",
-      "100% remote, online learning",
-      "Under 10 hours of study a week*",
-      "Master the skills necessary to succeed in an entry-level role"
-    ]
+      "Basics of Programming I",
+      "Basics of Programming II",
+      "Basics of Programming III",
+      "Basics of Programming IV"
+      
+    ],
+    "orders": "1000",
+    "growth": "1200",
+    "students": "28000",
+    "ClickRate": "178"
   },
   {
     "id": "06",
@@ -66,11 +95,15 @@
     "description": "Machine Learning is the study of how to build computer systems that learn from experience. It is a subfield of Artificial Intelligence and intersects with statistics, cognitive science, information theory, and probability theory, among others.",
     "price": "38",
     "feature": [
-      "No relevant experience necessary",
-      "100% remote, online learning",
-      "Under 10 hours of study a week*",
-      "Master the skills necessary to succeed in an entry-level role"
-    ]
+      "Welcome to the Data Scientist: Machine Learning Specialist Career Path",
+      "Principles of Data Literacy",
+      "Learn SQL",
+      "Statistics Fundamentals for Data Science"
+    ],
+    "orders": "200",
+    "growth": "60",
+    "students": "3000",
+    "ClickRate": "39"
   },
   {
     "id": "07",
@@ -79,12 +112,17 @@
     "description": "Computer Science for Web Programming. This course provides an introduction of web-programming techniques that use HTML, CSS and JavaScript as web development essentials. The concepts of web development are very important in the modern world as they are linked in all the sectors.",
     "price": "60",
     "feature": [
-      "No relevant experience necessary",
-      "100% remote, online learning",
-      "Under 10 hours of study a week*",
-      "Master the skills necessary to succeed in an entry-level role"
-    ]
+      "CS101: Introduction to Programming",
+      "CS102: Data Structures and Algorithms",
+      "CS103: Databases",
+      "CS104: Computer Architecture"
+    ],
+    "orders": "1400",
+    "growth": "1100",
+    "students": "10000",
+    "ClickRate": "88"
   },
+  
   {
     "id": "08",
     "name": "IBM Data Science",
@@ -92,10 +130,14 @@
     "description": "The program consists of 9 online courses that will provide you with the latest job-ready tools and skills, including open source tools and libraries, Python, databases, SQL, data visualization, data analysis, statistical analysis, predictive modeling, and machine learning algorithms.",
     "price": "55",
     "feature": [
-      "No relevant experience necessary",
-      "100% remote, online learning",
-      "Under 10 hours of study a week*",
-      "Master the skills necessary to succeed in an entry-level role"
-    ]
+      "Python Fundamentals for Data Science (Part I)",
+      "Python Fundamentals for Data Science (Part II)",
+      "Exploratory Data Analysis in Python",
+      "Data Visualization Fundamentals with Python"
+    ],
+    "orders": "400",
+    "growth": "200",
+    "students": "8000",
+    "ClickRate": "78"
   }
 ]
